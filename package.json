@@ -1,0 +1,17 @@
+{
+  "name": "storybook-issue-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start-storybook -p 3000  -c .storybook"
+  },
+  "author": "Andrew Razumovsky",
+  "license": "MIT",
+  "devDependencies": {
+    "@storybook/react": "^4.0.0-alpha.4",
+    "babel-core": "^6.26.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
